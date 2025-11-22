@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://cbepbpetsnsbd"]
+
+[ext_resource type="Texture2D" uid="uid://dtxlrq1rvl1q5" path="res://Sprites/FREE_Samurai 2D Pixel Art v1.2/FREE_Samurai 2D Pixel Art v1.2/Sprites/Clouds Background.png" id="1_4rphk"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_b3oxr"]
+size = Vector2(236, 33.25)
+
+[node name="Cloud" type="Node2D"]
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(569, 350.375)
+shape = SubResource("RectangleShape2D_b3oxr")
+
+[node name="CloudsBackground" type="Sprite2D" parent="Area2D"]
+position = Vector2(570, 305)
+texture = ExtResource("1_4rphk")
