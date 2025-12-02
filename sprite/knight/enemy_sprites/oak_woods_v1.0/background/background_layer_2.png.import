@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b02cft7isnq37"
-path="res://.godot/imported/Full Tileset.png-8e1768a6971aa71de0539b008315aabf.ctex"
+uid="uid://cxpgicvi5rlvx"
+path="res://.godot/imported/background_layer_2.png-bc0a2115490f439ecb661a1771b27f70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FREE_Samurai 2D Pixel Art v1.2/FREE_Samurai 2D Pixel Art v1.2/Sprites/Full Tileset.png"
-dest_files=["res://.godot/imported/Full Tileset.png-8e1768a6971aa71de0539b008315aabf.ctex"]
+source_file="res://sprite/knight/enemy_sprites/oak_woods_v1.0/background/background_layer_2.png"
+dest_files=["res://.godot/imported/background_layer_2.png-bc0a2115490f439ecb661a1771b27f70.ctex"]
 
 [params]
 
